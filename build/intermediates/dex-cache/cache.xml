@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Han\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="E:\han_git\TouchMouse\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-13.0_07a50ace4dd712cc9ab4dfa8feda0c9c118ca728\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="E:\han_git\TouchMouse\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-18.0_23ae9d619c9ad952ac11ce7bff78df802e3e98c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\han_git\TouchMouse\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\han_git\TouchMouse\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8e0aa3ab706d9423b8f126e6cdabb28ebe3581d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\han_git\TouchMouse\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0fe2811ced65aa7d4b3b44179e06477f84f293e9">
+        <dex dex="E:\han_git\TouchMouse\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5533da73088ff1a4ce88465ea69cbaac9de78294\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Han\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.2.10\b9bf650516989595a5390e5a54181e16347208ac\kotlin-stdlib-1.2.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9bf650516989595a5390e5a54181e16347208ac">
+        <dex dex="E:\han_git\TouchMouse\app\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-1.2.10_5f15d76f378799de648f5d3242a7e88679c61a3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Han\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib-jre7\1.2.10\ea1aafdd031ba2604b06cb89a97da397b7aff520\kotlin-stdlib-jre7-1.2.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ea1aafdd031ba2604b06cb89a97da397b7aff520">
+        <dex dex="E:\han_git\TouchMouse\app\build\intermediates\transforms\dex\debug\folders\1000\10\kotlin-stdlib-jre7-1.2.10_1d839b9aee5d4a1bef345df10d372803640ed0ab\classes.dex" />
+    </item>
+
+</items>
